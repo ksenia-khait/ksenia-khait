@@ -5,12 +5,8 @@
 ### I like:
 - :microphone: singing
 - :camera: photography
+- and certainly :computer: coding
 
-:heart: :heart: :heart:
-
-and most of all :computer: coding
-
-:heart: :heart: :heart:
 
 ### Skills and Tools
 
