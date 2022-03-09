@@ -1,12 +1,13 @@
-## Hello, I'm Ksenia
+# Hello, I'm Ksenia
 
-### I'm a junior frontend-developer :computer
+### I'm a junior frontend-developer :computer:
 
-I like
-- :microphone singing
-- :camera photography
-- :laptop coding
-- :heart :heart :heart
+I like:
+- :microphone: singing
+- :camera: photography
+:heart: :heart: :heart:
+- :laptop: coding
+:heart: :heart: :heart:
 
 ### Skills and Tools
 
