@@ -21,5 +21,5 @@ I like
 <br/>
 
 ## You can contact me:
-![Telegram](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png) (t.me/ksenia_khait)
-![Instagram](https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png) (https://www.instagram.com/ksenia_khait/)
+![Telegram](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png) [Telegram @ksenia_khait](https://t.me/ksenia_khait)  
+![Instagram](https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png) [Instagram ksenia_khait](https://www.instagram.com/ksenia_khait)
